@@ -4,5 +4,5 @@ void main(){
     if(c==10)
     printf("Correct");
     else
-    printf("Oops");
+    printf("Wrong");
 }
