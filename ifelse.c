@@ -2,8 +2,7 @@
 void main(){
     int c=10;
     if(c==10)
-    printf("Correct");
+    printf("True");
     else
     printf("Incorrect");
 }
-
