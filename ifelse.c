@@ -6,4 +6,3 @@ void main(){
     else
     printf("Incorrect");
 }
-
